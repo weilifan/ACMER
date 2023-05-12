@@ -1,8 +1,8 @@
 IMGID:8796561512602603
 曹	B-ORG
 操	I-ORG
-成	B-LOC
-都	I-LOC
+出	I-ORG
+行	I-ORG
 本	O
 周	O
 末	O
@@ -12,6 +12,28 @@ IMGID:8796561512602603
 策	O
 来	O
 啦	O
+
+IMGID:8796569793602603
+曹	B-PER
+操	I-PER
+抗	O
+压	O
+能	O
+力	O
+强	O
+，	O
+能	O
+打	O
+逆	O
+风	O
+局	O
+，	O
+适	O
+合	O
+走	O
+对	O
+抗	O
+路	O
 
 IMGID:4885466710546145
 吉	B-ORG
@@ -48,7 +70,7 @@ IMGID:4885499770311958
 杰	I-PER
 《	O
 曹	B-MISC
-操	B-MISC
+操	I-MISC
 》	O
 
 IMGID:4648377637669583
@@ -225,22 +247,22 @@ IMGID:3215551193310779
 年	O
 ，	O
 德	B-LOC
-国	B-LOC
-弗	B-LOC
-赖	B-LOC
-堡	B-LOC
+国	I-LOC
+弗	I-LOC
+赖	I-LOC
+堡	I-LOC
 到	O
 滴	B-LOC
-滴	B-LOC
-湖	B-LOC
+滴	I-LOC
+湖	I-LOC
 的	O
 路	O
 上	O
 ，	O
 圣	B-LOC
-梅	B-LOC
-尔	B-LOC
-根	B-LOC
+梅	I-LOC
+尔	I-LOC
+根	I-LOC
 附	O
 近	O
 
@@ -319,13 +341,6 @@ IMGID:4885036614816697
 ！	O
 
 IMGID:4824933635723120
-【	O
-马	B-LOC
-德	I-LOC
-里	I-LOC
-街	I-LOC
-景	I-LOC
-】	O
 图	O
 为	O
 西	B-LOC
@@ -483,28 +498,6 @@ o	I-MISC
 自	O
 信	O
 啊	O
-
-IMGID:8796569793602603
-曹	B-PER
-操	I-PER
-抗	O
-压	O
-能	O
-力	O
-强	O
-，	O
-能	O
-打	O
-逆	O
-风	O
-局	O
-，	O
-适	O
-合	O
-走	O
-对	O
-抗	O
-路	O
 
 IMGID:4885341489600083
 音	O
@@ -771,8 +764,8 @@ IMGID:4870081156745769
 厂	O
 
 IMGID:4870081156745770
-苹	B-MISC
-果	I-MISC
+苹	B-ORG
+果	I-ORG
 加	O
 工	O
 厂	O
